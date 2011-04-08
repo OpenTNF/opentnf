@@ -1,0 +1,1 @@
+This is the version 0.9 of the OpenTNF Attribute-schema. 
