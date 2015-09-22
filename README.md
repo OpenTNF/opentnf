@@ -1,3 +1,4 @@
+<img src="https://github.com/OpenTNF/opentnf/blob/master/logo.png" tag="OpenTNF" style="float: left">
 OpenTNF's mission statement:
 
 _Create and maintain, as a community, an international, open and efficient solution for exchange of Transport Network data. The solution will enable easier usage of data on multiple platforms._
