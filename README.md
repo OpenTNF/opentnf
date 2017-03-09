@@ -14,6 +14,7 @@ The OpenTNF™ format is specified as a set of data tables that in principal may
 
 To align to this specification an implementation shall implement all mandatory and conditional elements as specified. Optional elements may be implemented and if they are implemented they shall be implemented as specified. Finally, an implementation may add additional elements and extend this specification provided that all mandatory, conditional and optional elements are not affected. This means that implementations are free to add tables or columns.
 
+The first release of the specification is available for download <a href="https://github.com/OpenTNF/opentnf/releases/download/1.0/OpenTNF.-.white.paper.pdf" target="_blank">OpenTNF 1.0  <img src="https://github.com/OpenTNF/opentnf/blob/master/pdf_icon.png" tag="pdf"></a>
 
 While OpenTNF™ initially was developed by Triona AB, everyone is invited to contribute to its further development and maintenance. We encourage you to use, read, review, evaluate, discuss and comment this document and OpenTNF™.
 
