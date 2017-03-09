@@ -18,4 +18,4 @@ The first release of the specification is available for download <a href="https:
 
 While OpenTNF™ initially was developed by Triona AB, everyone is invited to contribute to its further development and maintenance. We encourage you to use, read, review, evaluate, discuss and comment this document and OpenTNF™.
 
-The OpenTNF™ specification is licensed under the Creative Commons Attribution-No Derivative Works 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nd/4.0/.
+The OpenTNF™ specification is licensed under the Creative Commons Attribution-No Derivative Works 4.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nd/4.0/.
