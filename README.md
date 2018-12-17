@@ -2,7 +2,7 @@
 
 OpenTNF™ is an open specification for interoperability and exchange of data on Transport Networks. The format enables users to read and write OpenTNF™ data files using either self-written or Open Source software. 
 
-OpenTNF™ is and shall be free of charge, globally useful and an open complement to international standards such as INSPIRE DS TN, GDF and ISO 19100 and national standards such as SOSI and SS63700x. Our common goal for the work is characterized by openness and simple and effective solutions.
+OpenTNF™ is and shall be free of charge, globally useful and an open complement to international standards such as INSPIRE DS TN, GDF and ISO 19100 and national standards such as SOSI (Norway) and SS63700x (Sweden). Our common goal for the work is characterized by openness and simple and effective solutions.
 
 OpenTNF's mission statement:
 
