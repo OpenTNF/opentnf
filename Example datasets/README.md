@@ -4,4 +4,4 @@
 A small subset from the [Norwegia National Road Database (NRDB)](https://www.vegvesen.no/en/professional/roads/national-road-database/) in OpenTNF format can be downloaded at [Hamar subfolder](Hamar).
 
 ## Strömstad 
-A small subset from the [Swedish National Road Database (NRDB)](https://www.http://www.nvdb.se/en/) in OpenTNF format can be downloaded at [Stromstad subfolder](Stromstad).
+A small subset from the [Swedish National Road Database (NRDB)](http://www.nvdb.se/en/) in OpenTNF format can be downloaded at [Stromstad subfolder](Stromstad).
